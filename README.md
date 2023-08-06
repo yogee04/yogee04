@@ -1,8 +1,6 @@
 ### Hi there 👋
 ## I'm Yogesh
-
-🔭 I Have completed my B.Tech from 'Nalenda College of Engineering' in Mechanical Engineering
-I’m currently working in LTIMindtree as ##Data Engineer
+# Currently I'm  working in LTIMindtree as Data Engineer
 <!--
 **yogee04/yogee04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
